@@ -1,6 +1,6 @@
 ### Hi there, I'm Tomas
 
-## **I'm a Customer and Cloud Support Specialist, aspiring DevOps Engineer**
+## **I'm a Customer and Cloud Support Specialist, DevOps Engineer**
 
 - 🚀 I have two years experience with AWS design and implementation on freelancing projects.
 - 🗣 I record tutorial videos on YouTube to teach about different cloud technologies.
