@@ -14,6 +14,8 @@
 <img alt="Github" src="https://img.shields.io/badge/GitHub-%23121011.svg?style=flat-square&logo=Github&logoColor=white" height="20" />
 <img alt="Amazon Web Services" src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat-square&logo=amazon-aws&logoColor=white" height="20" />
 <img alt="python" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=white" height="20" />
+<img alt="streamlit" src="https://img.shields.io/badge/streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" height="20" />
+<img alt="pandas" src="https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" height="20" />
 <img alt="kubernetes" src="https://img.shields.io/badge/Kubernetes-326ce5.svg?&style=flat-square&logo=Kubernetes&logoColor=white" height="20" />
 <img alt="Helm" src="https://img.shields.io/badge/Helm-0F1689?style=flat-square&logo=helm&logoColor=white" height="20" />
 <img alt="Kustomize" src="https://img.shields.io/badge/Kustomize-326ce5?style=flat-square&logo=kubernetes&logoColor=white" height="20" />
