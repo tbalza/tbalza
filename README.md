@@ -37,5 +37,5 @@
 
 <p align="left">
 <img src="https://images.credly.com/size/680x680/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png" width="125" height="125">
-<img src="https://images.credly.com/size/680x680/images/85b9cfc4-257a-4742-878c-4f7ab4a2631b/image.png" width="125" height="125">
+<img src="https://images.credly.com/size/680x680/images/ed4be915-68f8-428a-b332-40ded9084ee5/blob" width="125" height="125">
 </p>
